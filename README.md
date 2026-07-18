@@ -18,6 +18,4 @@ Saya bekerja sebagai **NOC Helpdesk** dengan pengalaman dalam monitoring jaringa
 - Penetration Testing Bootcamp – Redlimit
 
 ## Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/januarbaeturahman
 - 📧 Email: sysadmin@januarr.my.id
